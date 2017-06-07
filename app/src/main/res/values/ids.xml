@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tab_item_row" type="id"/>
+    <item name="tab_item_column" type="id"/>
+    <item name="tab_item_type" type="id"/>
+</resources>
