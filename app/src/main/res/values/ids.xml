@@ -3,4 +3,7 @@
     <item name="tab_item_row" type="id"/>
     <item name="tab_item_column" type="id"/>
     <item name="tab_item_type" type="id"/>
+
+    <item name="level_item_state" type="id"/>
+    <item name="level_item_position" type="id"/>
 </resources>
